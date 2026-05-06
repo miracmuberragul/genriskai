@@ -1,1 +1,2 @@
-print("gen risk ai")
+for i in range(5):
+    print("gen risk ai")
